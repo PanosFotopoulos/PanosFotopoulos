@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PanosFotopoulos
-- 👀 I’m interested in python coding 
-- 🌱 I’m currently learning python & Jenkins CI/CD 
-- 💞️ I’m looking to collaborate on internship sience in University of West Attica studing Design and Production Engineering 
+- 👀 I love coding in python
+- 🌱 I’m currently as a CRM developer - Salesforce
 - 📫 How to reach me https://www.linkedin.com/in/panagiotis-fotopoulos-1b8294240/
 
 
